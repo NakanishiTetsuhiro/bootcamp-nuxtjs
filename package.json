@@ -1,8 +1,8 @@
 {
   "name": "bootcamp-nuxtjs",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "TETSU <kaoru6strings@gmail.com>",
+  "description": "bootcamp-nuxtjs",
+  "author": "TETSU",
   "private": true,
   "scripts": {
     "dev": "nuxt",

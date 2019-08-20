@@ -1,6 +1,6 @@
 # bootcamp-nuxtjs
 
-> Nuxt.js project
+> bootcamp-nuxtjs
 
 ## Build Setup
 

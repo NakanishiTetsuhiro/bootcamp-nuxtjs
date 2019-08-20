@@ -6,7 +6,7 @@
         bootcamp-nuxtjs
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        bootcamp-nuxtjs
       </h2>
       <div class="links">
         <a
